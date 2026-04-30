@@ -1,4 +1,4 @@
-# Brady-s-Fabric-MC-Server-
+
 # Instructions:
 You need to have all of these installed unless they are listed as (Optional)
 1. Minecraft Java Installed
@@ -12,6 +12,3 @@ You need to have all of these installed unless they are listed as (Optional)
 9. (Optional) Journey Map installed                       (https://modrinth.com/mod/journeymap/version/26.1.2-6.0.0-beta.68+fabric)
 10. You need to DM me your username so I can add it to the whitelisted players list
 11. Once in Minecraft Java Fabric installation (asuming that you did it correctly) go to the multiplayer tab and click "add server" and type in whatever you want for the Server Name ex. "Brady's Minecraft Server" and for the "Server Address" put in 184.190.96.129
-
-# Rules:
-1. don't annoy me and I won't ban you :)
