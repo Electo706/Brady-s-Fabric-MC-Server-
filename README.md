@@ -11,6 +11,7 @@
 -  Journey Map                                            (https://modrinth.com/mod/journeymap/version/26.1.2-6.0.0-beta.68+fabric)
 -  Gravestones                                            (https://modrinth.com/mod/pneumono_gravestones)
 -  PneumoCore (required for Gravestones)                  (https://modrinth.com/mod/pneumono_core)
+-  Simple Voice Chat                                      (https://modrinth.com/plugin/simple-voice-chat/versions?g=26.1.2&l=fabric)
 -  (Optional but highly recommended) Sodium               (https://modrinth.com/mod/sodium/version/mc26.1.1-0.8.9-fabric)
 -  (Optional) Iris                                        (https://modrinth.com/mod/iris/version/1.10.9+26.1-fabric)
 -  (Optional ONLY FOR HIGH END PCs) Distant Horizons      (https://modrinth.com/mod/distanthorizons)
