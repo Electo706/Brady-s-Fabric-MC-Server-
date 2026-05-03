@@ -14,6 +14,7 @@
 -  Simple Voice Chat                                      (https://modrinth.com/plugin/simple-voice-chat/versions?g=26.1.2&l=fabric)
 -  WTHIT                                                  (https://modrinth.com/mod/wthit?version=26.1.2&loader=fabric)
 -  Bad Packets (Required for WTHIT)                       (https://modrinth.com/mod/badpackets)
+-  JEI                                                    (https://modrinth.com/mod/jei)
 -  (Optional but highly recommended) Sodium               (https://modrinth.com/mod/sodium/version/mc26.1.1-0.8.9-fabric)
 -  (Optional) Iris                                        (https://modrinth.com/mod/iris/version/1.10.9+26.1-fabric)
 -  (Optional ONLY FOR HIGH END PCs) Distant Horizons      (https://modrinth.com/mod/distanthorizons)
