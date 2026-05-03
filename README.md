@@ -20,6 +20,7 @@
 -  (Optional ONLY FOR HIGH END PCs) Distant Horizons      (https://modrinth.com/mod/distanthorizons)
 -  Note that if you are using Distant Horizons with Iris may get a BLAZE_3D error you need to go into the config for distant horizons and change the Renderer or Grahics API to OPEN_GL
 -  (Optional) Sound Physics Remastered                    (https://modrinth.com/mod/sound-physics-remastered/versions?g=26.1.2&l=fabric)
+-  (Optional) Mod Menu                                    (https://modrinth.com/mod/modmenu)
 
 10. You need to DM me your username so I can add it to the whitelisted players list and so I can send you the Server Address (my username is <3rady in discord)
 12. Join The GaberSMP Discord Server and read the rules (https://discord.gg/swXqTX3T)
