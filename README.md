@@ -1,11 +1,11 @@
 
-# Instructions:
+# Instructions: OUTDATED
 **You need to have all of these installed unless they are listed as (Optional)**
 1. Minecraft Java Installed
-2. Java 25 Installed                                      (https://www.oracle.com/java/technologies/downloads/#jdk25-windows)
+2. Java 26 Installed                                      (https://www.oracle.com/java/technologies/downloads/#jdk26-windows)
 3. Fabric Client installed                                (https://fabricmc.net/use/installer/)
 
-4. Mods Installed in /.minecraft/mods: (REQUIRED note: all versions are 26.1.2 and some are 26.1.1)
+4. Mods Installed in /.minecraft/mods: (REQUIRED note: all versions are 26.2)
 -  Fabric API                                             (https://modrinth.com/mod/fabric-api/version/0.146.1+26.1.2)
 -  Common-Networking (Required for Journey Map)           (https://modrinth.com/mod/common-network/version/1.0.22-26.1.2)
 -  Journey Map                                            (https://modrinth.com/mod/journeymap/version/26.1.2-6.0.0-beta.68+fabric)
